@@ -1,6 +1,6 @@
 classes= 2
-train  = ~/DATASET/VOC/train.txt
-valid  = ~/VOC/2007_test.txt
+train  = /content/gdrive/My\ Drive/MobileNet-Yolo/train.txt
+valid  = /content/gdrive/My\ Drive/MobileNet-Yolo/test.txt
 names = voc.names
-backup = ~/MobileNetV2-YOLOv3-Lite_VOC/model
+backup = /content/gdrive/My\ Drive/MobileNet-Yolo/backup/
 
