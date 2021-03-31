@@ -1,0 +1,1036 @@
+﻿  activations.c
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(46): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(109): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(110): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.c(165): warning C4305: '초기화 중': 'double'에서 'const float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.c(193): warning C4305: '초기화 중': 'double'에서 'const float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.c(355): warning C4244: '초기화 중': 'double'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.c(356): warning C4244: '초기화 중': 'double'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  activation_layer.c
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(46): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(109): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(110): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  art.c
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(46): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(109): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(110): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  avgpool_layer.c
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(46): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(109): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(110): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  batchnorm_layer.c
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(46): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(109): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(110): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\batchnorm_layer.c(112): warning C4244: '*=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\batchnorm_layer.c(127): warning C4244: '*=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\batchnorm_layer.c(137): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\batchnorm_layer.c(190): warning C4305: '함수': 'double'에서 'float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\batchnorm_layer.c(191): warning C4305: '함수': 'double'에서 'float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\batchnorm_layer.c(192): warning C4305: '함수': 'double'에서 'float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\batchnorm_layer.c(193): warning C4305: '함수': 'double'에서 'float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\batchnorm_layer.c(206): warning C4028: 정식 매개 변수 1이(가) 선언과 다릅니다.
+  blas.c
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\blas.c(103): warning C4305: '초기화 중': 'double'에서 'const float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\blas.c(171): warning C4305: '초기화 중': 'double'에서 'const float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\blas.c(255): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\blas.c(278): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\blas.c(271): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\blas.c(292): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\blas.c(313): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\blas.c(399): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\blas.c(392): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\blas.c(409): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\blas.c(410): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\blas.c(420): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\blas.c(431): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\blas.c(463): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  box.c
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\box.c : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\box.c(39): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\box.c(40): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\box.c(41): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\box.c(42): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\box.c(103): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\box.c(104): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\box.c(105): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\box.c(106): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\box.c(206): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\box.c(225): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\box.c(249): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\box.c(250): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\box.c(260): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\box.c(261): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\box.c(262): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\box.c(263): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\box.c(277): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\box.c(278): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\box.c(282): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\box.c(283): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\box.c(356): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\box.c(357): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\box.c(358): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\box.c(359): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\box.c(365): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\box.c(367): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\box.c(370): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\box.c(372): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\box.c(374): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\box.c(376): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\box.c(379): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\box.c(381): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\box.c(433): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\box.c(434): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\box.c(435): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\box.c(436): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\box.c(585): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\box.c(633): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\box.c(634): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\box.c(635): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\box.c(636): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\box.c(620): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\box.c(621): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\box.c(622): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\box.c(623): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\box.c(625): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\box.c(655): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\box.c(656): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\box.c(657): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\box.c(658): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\box.c(642): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\box.c(643): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\box.c(644): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\box.c(645): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\box.c(647): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\box.c(684): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\box.c(685): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\box.c(686): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\box.c(687): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\box.c(667): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\box.c(668): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\box.c(669): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\box.c(670): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\box.c(672): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\box.c(896): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\box.c(897): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\box.c(898): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\box.c(937): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\box.c(938): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\box.c(947): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\box.c(948): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  captcha.c
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(46): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(109): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(110): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\captcha.c(31): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\captcha.c(87): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\captcha.c(88): warning C4477: 'printf' : 서식 문자열 '%ld'에 'long' 형식의 인수가 필요하지만 variadic 인수 5의 형식이 'uint64_t'입니다.
+  d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\captcha.c(88): note: 서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+  d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\captcha.c(88): note: 서식 문자열에서 '%Id'을(를) 사용하는 것이 좋습니다.
+  d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\captcha.c(88): note: 서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\captcha.c(41): warning C4244: '초기화 중': 'uint64_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  cifar.c
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(46): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(109): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(110): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\cifar.c(9): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\cifar.c(31): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\cifar.c(32): warning C4477: 'printf' : 서식 문자열 '%ld'에 'long' 형식의 인수가 필요하지만 variadic 인수 7의 형식이 'uint64_t'입니다.
+  d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\cifar.c(32): note: 서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+  d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\cifar.c(32): note: 서식 문자열에서 '%Id'을(를) 사용하는 것이 좋습니다.
+  d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\cifar.c(32): note: 서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\cifar.c(34): warning C4244: '=': 'uint64_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\cifar.c(24): warning C4244: '초기화 중': 'uint64_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\cifar.c(57): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\cifar.c(79): warning C4244: '함수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\cifar.c(87): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\cifar.c(88): warning C4477: 'printf' : 서식 문자열 '%ld'에 'long' 형식의 인수가 필요하지만 variadic 인수 7의 형식이 'uint64_t'입니다.
+  d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\cifar.c(88): note: 서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+  d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\cifar.c(88): note: 서식 문자열에서 '%Id'을(를) 사용하는 것이 좋습니다.
+  d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\cifar.c(88): note: 서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\cifar.c(90): warning C4244: '=': 'uint64_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\cifar.c(72): warning C4244: '초기화 중': 'uint64_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\cifar.c(77): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\cifar.c(118): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\cifar.c(149): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\cifar.c(193): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\cifar.c(220): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  classifier.c
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(46): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(109): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(110): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\classifier.c(25): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\classifier.c(40): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\classifier.c(57): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\classifier.c(163): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\classifier.c(168): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\classifier.c(169): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\classifier.c(195): warning C4477: 'printf' : 서식 문자열 '%ld'에 'long' 형식의 인수가 필요하지만 variadic 인수 7의 형식이 'uint64_t'입니다.
+  d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\classifier.c(195): note: 서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+  d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\classifier.c(195): note: 서식 문자열에서 '%Id'을(를) 사용하는 것이 좋습니다.
+  d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\classifier.c(195): note: 서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\classifier.c(371): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\classifier.c(440): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\classifier.c(514): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\classifier.c(588): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\classifier.c(661): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\classifier.c(754): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\classifier.c(755): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\classifier.c(831): warning C4101: 'time' :참조되지 않은 지역 변수입니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\classifier.c(887): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\classifier.c(925): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\classifier.c(1060): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\classifier.c(1071): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\classifier.c(1073): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\classifier.c(1074): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\classifier.c(1075): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\classifier.c(1076): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\classifier.c(1078): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\classifier.c(1079): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\classifier.c(1080): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\classifier.c(1081): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\classifier.c(1082): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\classifier.c(1084): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\classifier.c(1085): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\classifier.c(1086): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\classifier.c(1087): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\classifier.c(1089): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\classifier.c(1090): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\classifier.c(1091): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\classifier.c(1092): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\classifier.c(1127): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\classifier.c(997): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\classifier.c(1051): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\classifier.c(1098): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\classifier.c(1314): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\classifier.c(1312): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\classifier.c(1316): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\classifier.c(1261): warning C4101: 'tval_result' :참조되지 않은 지역 변수입니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\classifier.c(1261): warning C4101: 'tval_after' :참조되지 않은 지역 변수입니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\classifier.c(1342): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  coco.c
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(46): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(109): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(110): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\coco.c(22): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\coco.c(86): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\coco.c(32): warning C4244: '초기화 중': 'uint64_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\coco.c(117): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\coco.c(118): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\coco.c(110): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\coco.c(111): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\coco.c(112): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\coco.c(113): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\coco.c(145): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\coco.c(171): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\coco.c(246): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\coco.c(274): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\coco.c(343): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\coco.c(396): warning C4305: '함수': 'double'에서 'float'(으)로 잘립니다.
+  col2im.c
+  compare.c
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(46): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(109): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(110): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\compare.c(12): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\compare.c(56): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\compare.c(57): warning C4477: 'printf' : 서식 문자열 '%ld'에 'long' 형식의 인수가 필요하지만 variadic 인수 5의 형식이 'uint64_t'입니다.
+  d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\compare.c(57): note: 서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+  d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\compare.c(57): note: 서식 문자열에서 '%Id'을(를) 사용하는 것이 좋습니다.
+  d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\compare.c(57): note: 서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\compare.c(65): warning C4244: '=': 'uint64_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\compare.c(70): warning C4305: '*=': 'double'에서 'float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\compare.c(43): warning C4244: '초기화 중': 'uint64_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\compare.c(88): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\compare.c(196): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\compare.c(197): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\compare.c(198): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\compare.c(199): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\compare.c(234): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\compare.c(266): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  connected_layer.c
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(46): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(109): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(110): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\connected_layer.c(93): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\connected_layer.c(251): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  convolutional_layer.c
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(46): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(109): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(110): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\convolutional_layer.c(46): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\convolutional_layer.c(59): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\convolutional_layer.c(69): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\convolutional_layer.c(649): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\convolutional_layer.c(666): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\convolutional_layer.c(440): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\convolutional_layer.c(722): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\convolutional_layer.c(916): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\convolutional_layer.c(938): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\convolutional_layer.c(949): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\convolutional_layer.c(954): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\convolutional_layer.c(1068): warning C4267: '함수': 'size_t'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\convolutional_layer.c(1075): warning C4028: 정식 매개 변수 1이(가) 선언과 다릅니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\convolutional_layer.c(1147): warning C4267: '함수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\convolutional_layer.c(1162): warning C4267: '함수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\convolutional_layer.c(1165): warning C4267: '함수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\convolutional_layer.c(1208): warning C4267: '함수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\convolutional_layer.c(1307): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\convolutional_layer.c(1295): warning C4244: '초기화 중': 'uint64_t'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\convolutional_layer.c(1303): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\convolutional_layer.c(1330): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\convolutional_layer.c(1331): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\convolutional_layer.c(1332): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\convolutional_layer.c(1333): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  conv_lstm_layer.c
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(46): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(109): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(110): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\conv_lstm_layer.c(206): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\conv_lstm_layer.c(207): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\conv_lstm_layer.c(524): warning C4244: '함수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  cost_layer.c
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(46): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(109): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(110): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\cost_layer.c(75): warning C4028: 정식 매개 변수 1이(가) 선언과 다릅니다.
+  cpu_gemm.c
+  crnn_layer.c
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(46): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(109): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(110): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  crop_layer.c
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(46): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(109): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(110): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\crop_layer.c(54): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\crop_layer.c(55): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  컴파일하고 있습니다...
+  darknet.c
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(46): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(109): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(110): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\darknet.c(75): warning C4244: '함수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\darknet.c(76): warning C4244: '함수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\darknet.c(78): warning C4244: '함수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\darknet.c(79): warning C4244: '함수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\darknet.c(80): warning C4244: '함수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\darknet.c(84): warning C4244: '함수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\darknet.c(85): warning C4244: '함수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\darknet.c(490): warning C4305: '함수': 'double'에서 'float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\darknet.c(519): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  dark_cuda.c
+  data.c
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\data.c(264): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\data.c(265): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\data.c(441): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\data.c(443): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\data.c(444): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\data.c(445): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\data.c(674): warning C4244: '함수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\data.c(675): warning C4244: '함수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\data.c(676): warning C4244: '함수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\data.c(677): warning C4244: '함수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\data.c(696): warning C4244: '함수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\data.c(671): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\data.c(672): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\data.c(674): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\data.c(675): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\data.c(676): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\data.c(677): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\data.c(793): warning C4244: '함수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\data.c(794): warning C4244: '함수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\data.c(795): warning C4244: '함수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\data.c(796): warning C4244: '함수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\data.c(814): warning C4244: '함수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\data.c(790): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\data.c(791): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\data.c(793): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\data.c(794): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\data.c(795): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\data.c(796): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\data.c(924): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\data.c(925): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\data.c(926): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\data.c(927): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\data.c(894): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\data.c(895): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\data.c(896): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\data.c(897): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\data.c(972): warning C4244: '함수': 'const float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\data.c(973): warning C4244: '함수': 'const float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\data.c(1032): warning C4244: '=': 'unsigned int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\data.c(1038): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\data.c(1045): warning C4244: '함수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\data.c(1046): warning C4244: '함수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\data.c(1047): warning C4244: '함수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\data.c(1048): warning C4244: '함수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\data.c(1063): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\data.c(1064): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\data.c(1071): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\data.c(1072): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\data.c(1087): warning C4244: '함수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\data.c(1087): warning C4244: '함수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\data.c(1089): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\data.c(1091): warning C4244: '함수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\data.c(1092): warning C4244: '함수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\data.c(1157): warning C4244: '함수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\data.c(970): warning C4305: '초기화 중': 'double'에서 'const float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\data.c(1015): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\data.c(1016): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\data.c(1045): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\data.c(1046): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\data.c(1047): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\data.c(1048): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\data.c(1174): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\data.c(1175): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\data.c(1176): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\data.c(1177): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\data.c(1134): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\data.c(1678): warning C4244: '함수': 'const float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\data.c(1679): warning C4244: '함수': 'const float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\data.c(1721): warning C4244: '함수': 'const float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\data.c(1722): warning C4244: '함수': 'const float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\data.c(1676): warning C4305: '초기화 중': 'double'에서 'const float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\data.c(1677): warning C4305: '초기화 중': 'double'에서 'const float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\data.c(1720): warning C4305: '초기화 중': 'double'에서 'const float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\data.c(1898): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\data.c(1902): warning C4305: '함수': 'double'에서 'float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\data.c(1931): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\data.c(1932): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\data.c(1962): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\data.c(1969): warning C4305: '함수': 'double'에서 'float'(으)로 잘립니다.
+  deconvolutional_layer.c
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(46): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(109): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(110): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\deconvolutional_layer.c(65): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\deconvolutional_layer.c(158): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  demo.c
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(46): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(109): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(110): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\demo.c(358): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\demo.c(248): warning C4305: '초기화 중': 'double'에서 'const float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\demo.c(357): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\demo.c(361): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  detection_layer.c
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(46): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(109): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(110): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\detection_layer.c(44): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\detection_layer.c(84): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\detection_layer.c(99): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\detection_layer.c(160): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\detection_layer.c(161): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\detection_layer.c(163): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\detection_layer.c(174): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\detection_layer.c(175): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\detection_layer.c(178): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\detection_layer.c(211): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\detection_layer.c(80): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\detection_layer.c(239): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\detection_layer.c(240): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\detection_layer.c(304): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\detection_layer.c(305): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  detector.c
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(46): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(109): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(110): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\detector.c(63): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\detector.c(69): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\detector.c(88): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\detector.c(117): warning C4244: '=': 'int64_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\detector.c(118): warning C4244: '=': 'int64_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\detector.c(119): warning C4244: '=': 'int64_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\detector.c(237): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\detector.c(279): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\detector.c(285): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\detector.c(287): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\detector.c(180): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\detector.c(184): warning C4244: '초기화 중': 'long double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\detector.c(185): warning C4244: '초기화 중': 'long double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\detector.c(188): warning C4244: '초기화 중': 'long double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\detector.c(189): warning C4244: '초기화 중': 'long double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\detector.c(281): warning C4244: '초기화 중': 'int64_t'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\detector.c(439): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\detector.c(440): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\detector.c(432): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\detector.c(433): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\detector.c(434): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\detector.c(435): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\detector.c(469): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\detector.c(470): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\detector.c(462): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\detector.c(463): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\detector.c(464): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\detector.c(465): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\detector.c(490): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\detector.c(491): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\detector.c(483): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\detector.c(484): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\detector.c(485): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\detector.c(486): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\detector.c(519): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\detector.c(520): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\detector.c(512): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\detector.c(513): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\detector.c(514): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\detector.c(515): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\detector.c(581): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\detector.c(582): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\detector.c(574): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\detector.c(575): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\detector.c(576): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\detector.c(577): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\detector.c(619): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\detector.c(681): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\detector.c(682): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\detector.c(800): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\detector.c(815): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\detector.c(817): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\detector.c(924): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\detector.c(1337): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\detector.c(944): warning C4305: '초기화 중': 'double'에서 'const float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\detector.c(945): warning C4305: '초기화 중': 'double'에서 'const float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\detector.c(1387): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\detector.c(1583): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  dice.c
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(46): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(109): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(110): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\dice.c(9): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\dice.c(35): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\dice.c(36): warning C4477: 'printf' : 서식 문자열 '%ld'에 'long' 형식의 인수가 필요하지만 variadic 인수 5의 형식이 'uint64_t'입니다.
+  d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\dice.c(36): note: 서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+  d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\dice.c(36): note: 서식 문자열에서 '%Id'을(를) 사용하는 것이 좋습니다.
+  d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\dice.c(36): note: 서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\dice.c(38): warning C4305: '*=': 'double'에서 'float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\dice.c(20): warning C4244: '초기화 중': 'uint64_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\dice.c(53): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  dropout_layer.c
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(46): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(109): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(110): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\dropout_layer.c(29): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  gaussian_yolo_layer.c
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(46): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(109): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(110): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\gaussian_yolo_layer.c(87): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\gaussian_yolo_layer.c(139): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\gaussian_yolo_layer.c(140): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\gaussian_yolo_layer.c(196): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\gaussian_yolo_layer.c(197): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\gaussian_yolo_layer.c(294): warning C4244: '*=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\gaussian_yolo_layer.c(295): warning C4244: '*=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\gaussian_yolo_layer.c(185): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\gaussian_yolo_layer.c(186): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\gaussian_yolo_layer.c(217): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\gaussian_yolo_layer.c(218): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\gaussian_yolo_layer.c(221): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\gaussian_yolo_layer.c(222): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\gaussian_yolo_layer.c(225): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\gaussian_yolo_layer.c(226): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\gaussian_yolo_layer.c(229): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\gaussian_yolo_layer.c(230): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\gaussian_yolo_layer.c(232): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\gaussian_yolo_layer.c(233): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\gaussian_yolo_layer.c(234): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\gaussian_yolo_layer.c(235): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\gaussian_yolo_layer.c(248): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\gaussian_yolo_layer.c(249): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\gaussian_yolo_layer.c(250): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\gaussian_yolo_layer.c(251): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\gaussian_yolo_layer.c(253): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\gaussian_yolo_layer.c(254): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\gaussian_yolo_layer.c(255): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\gaussian_yolo_layer.c(256): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\gaussian_yolo_layer.c(375): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\gaussian_yolo_layer.c(385): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\gaussian_yolo_layer.c(384): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\gaussian_yolo_layer.c(424): warning C4244: '함수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\gaussian_yolo_layer.c(428): warning C4244: '함수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\gaussian_yolo_layer.c(499): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\gaussian_yolo_layer.c(527): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\gaussian_yolo_layer.c(528): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\gaussian_yolo_layer.c(533): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\gaussian_yolo_layer.c(534): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\gaussian_yolo_layer.c(537): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\gaussian_yolo_layer.c(538): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\gaussian_yolo_layer.c(674): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\gaussian_yolo_layer.c(465): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\gaussian_yolo_layer.c(510): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\gaussian_yolo_layer.c(556): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\gaussian_yolo_layer.c(589): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\gaussian_yolo_layer.c(652): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\gaussian_yolo_layer.c(671): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\gaussian_yolo_layer.c(676): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\gaussian_yolo_layer.c(725): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\gaussian_yolo_layer.c(726): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\gaussian_yolo_layer.c(812): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\gaussian_yolo_layer.c(813): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  gemm.c
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(46): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(109): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(110): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\gemm.c(336): warning C4244: 'return': 'unsigned long'에서 'uint8_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\gemm.c(395): warning C4068: 알 수 없는 pragma입니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\gemm.c(398): warning C4068: 알 수 없는 pragma입니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\gemm.c(423): warning C4244: 'return': 'unsigned long'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\gemm.c(929): warning C4244: '함수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\gemm.c(930): warning C4244: '함수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\gemm.c(931): warning C4244: '함수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\gemm.c(932): warning C4244: '함수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\gemm.c(933): warning C4244: '함수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\gemm.c(934): warning C4244: '함수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\gemm.c(935): warning C4244: '함수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\gemm.c(936): warning C4244: '함수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\gemm.c(1057): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\gemm.c(1041): warning C4101: 'all256_last_zero' :참조되지 않은 지역 변수입니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\gemm.c(1046): warning C4101: 'all256_one' :참조되지 않은 지역 변수입니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\gemm.c(1044): warning C4101: 'idx256' :참조되지 않은 지역 변수입니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\gemm.c(1047): warning C4101: 'all256i_one' :참조되지 않은 지역 변수입니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\gemm.c(1145): warning C4244: 'return': 'unsigned __int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\gemm.c(1184): warning C4244: 'return': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\gemm.c(1201): warning C4244: 'return': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\gemm.c(1645): warning C4101: 'all256_sing1' :참조되지 않은 지역 변수입니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\gemm.c(1780): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  getopt.c
+  gettimeofday.c
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\gettimeofday.c(39): warning C4244: '=': 'double'에서 'long'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  go.c
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(46): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(109): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(110): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\go.c(118): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\go.c(144): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\go.c(145): warning C4477: 'printf' : 서식 문자열 '%ld'에 'long' 형식의 인수가 필요하지만 variadic 인수 7의 형식이 'uint64_t'입니다.
+  d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\go.c(145): note: 서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+  d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\go.c(145): note: 서식 문자열에서 '%Id'을(를) 사용하는 것이 좋습니다.
+  d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\go.c(145): note: 서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\go.c(147): warning C4244: '=': 'uint64_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\go.c(137): warning C4244: '초기화 중': 'uint64_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\go.c(198): warning C4244: '함수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\go.c(199): warning C4244: '함수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\go.c(200): warning C4244: '함수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\go.c(201): warning C4244: '함수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\go.c(307): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\go.c(404): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\go.c(442): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\go.c(539): warning C4305: '함수': 'double'에서 'float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\go.c(615): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\go.c(690): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\go.c(764): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\go.c(802): warning C4305: '함수': 'double'에서 'float'(으)로 잘립니다.
+  gru_layer.c
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(46): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(109): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(110): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  im2col.c
+  image.c
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\image.c(31): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\image.c(32): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\image.c(119): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\image.c(136): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\image.c(186): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\image.c(237): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\image.c(238): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\image.c(239): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\image.c(240): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\image.c(410): warning C4305: '함수': 'double'에서 'float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\image.c(425): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\image.c(431): warning C4244: '함수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\image.c(350): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\image.c(376): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\image.c(377): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\image.c(378): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\image.c(379): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\image.c(462): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\image.c(496): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\image.c(459): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\image.c(479): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\image.c(480): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\image.c(481): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\image.c(482): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\image.c(562): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\image.c(566): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\image.c(784): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\image.c(795): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\image.c(814): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\image.c(815): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\image.c(820): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\image.c(821): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\image.c(833): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\image.c(834): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\image.c(839): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\image.c(840): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\image.c(886): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\image.c(1039): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\image.c(1042): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\image.c(1044): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\image.c(1045): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\image.c(1095): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\image.c(1119): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\image.c(1150): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\image.c(1166): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\image.c(1310): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\image.c(1352): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\image.c(1424): warning C4305: '함수': 'double'에서 'float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\image.c(1425): warning C4305: '함수': 'double'에서 'float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\image.c(1426): warning C4305: '함수': 'double'에서 'float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\image.c(1427): warning C4305: '함수': 'double'에서 'float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\image.c(1444): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\image.c(1445): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\image.c(1446): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\image.c(1493): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\image.c(1679): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  layer.c
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(46): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(109): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(110): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  list.c
+  local_layer.c
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(46): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(109): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(110): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\local_layer.c(57): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  컴파일하고 있습니다...
+  lstm_layer.c
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(46): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(109): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(110): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  matrix.c
+  maxpool_layer.c
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(46): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(109): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(110): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\maxpool_layer.c(146): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  network.c
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(46): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(109): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(110): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\network.c(67): warning C4244: '초기화 중': 'uint64_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\network.c(115): warning C4244: '*=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\network.c(120): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\network.c(136): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\network.c(141): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\network.c(151): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\network.c(153): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\network.c(157): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\network.c(159): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\network.c(171): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\network.c(917): warning C4305: '초기화 중': 'double'에서 'const float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\network.c(945): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\network.c(946): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\network.c(1101): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\network.c(1102): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\network.c(1177): warning C4305: '초기화 중': 'double'에서 'const float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\network.c(1199): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\network.c(1206): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\network.c(1204): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\network.c(1244): warning C4305: '초기화 중': 'double'에서 'const float'(으)로 잘립니다.
+  nightmare.c
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(46): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(109): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(110): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\nightmare.c(14): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\nightmare.c(180): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\nightmare.c(197): warning C4305: '함수': 'double'에서 'float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\nightmare.c(200): warning C4305: '함수': 'double'에서 'float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\nightmare.c(201): warning C4305: '함수': 'double'에서 'float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\nightmare.c(216): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\nightmare.c(217): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\nightmare.c(219): warning C4244: '함수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\nightmare.c(245): warning C4305: '함수': 'double'에서 'float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\nightmare.c(272): warning C4244: '함수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\nightmare.c(297): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\nightmare.c(297): warning C4244: '함수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  normalization_layer.c
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(46): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(109): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(110): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  option_list.c
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\option_list.c(142): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\option_list.c(149): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  parser.c
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(46): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(109): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(110): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\parser.c(187): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\parser.c(346): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\parser.c(355): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\parser.c(384): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\parser.c(439): warning C4305: '함수': 'double'에서 'float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\parser.c(449): warning C4305: '함수': 'double'에서 'float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\parser.c(462): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\parser.c(469): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\parser.c(482): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\parser.c(544): warning C4305: '함수': 'double'에서 'float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\parser.c(563): warning C4305: '함수': 'double'에서 'float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\parser.c(575): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\parser.c(582): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\parser.c(611): warning C4305: '함수': 'double'에서 'float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\parser.c(633): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\parser.c(640): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\parser.c(665): warning C4305: '함수': 'double'에서 'float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\parser.c(799): warning C4305: '함수': 'double'에서 'float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\parser.c(802): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\parser.c(824): warning C4305: '함수': 'double'에서 'float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\parser.c(864): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\parser.c(987): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\parser.c(1060): warning C4305: '함수': 'double'에서 'float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\parser.c(1061): warning C4305: '함수': 'double'에서 'float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\parser.c(1064): warning C4305: '함수': 'double'에서 'float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\parser.c(1065): warning C4305: '함수': 'double'에서 'float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\parser.c(1082): warning C4244: '=': 'float'에서 'size_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\parser.c(1086): warning C4305: '함수': 'double'에서 'float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\parser.c(1087): warning C4305: '함수': 'double'에서 'float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\parser.c(1088): warning C4305: '함수': 'double'에서 'float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\parser.c(1108): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\parser.c(1157): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\parser.c(1162): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\parser.c(1145): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\parser.c(1277): warning C4244: '초기화 중': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\parser.c(1925): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\parser.c(1929): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\parser.c(1931): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\parser.c(1933): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\parser.c(1951): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\parser.c(1973): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  region_layer.c
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(46): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(109): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(110): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\region_layer.c(49): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\region_layer.c(86): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\region_layer.c(87): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\region_layer.c(89): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\region_layer.c(90): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\region_layer.c(105): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\region_layer.c(106): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\region_layer.c(102): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\region_layer.c(103): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\region_layer.c(166): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\region_layer.c(171): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\region_layer.c(267): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\region_layer.c(286): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\region_layer.c(287): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\region_layer.c(294): warning C4305: '함수': 'double'에서 'float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\region_layer.c(312): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\region_layer.c(313): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\region_layer.c(363): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\region_layer.c(231): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\region_layer.c(262): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\region_layer.c(301): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\region_layer.c(494): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\region_layer.c(495): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\region_layer.c(533): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  reorg_layer.c
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(46): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(109): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(110): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  reorg_old_layer.c
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(46): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(109): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(110): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  rnn.c
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(46): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(109): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(110): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\rnn.c(127): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\rnn.c(165): warning C4477: 'printf' : 서식 문자열 '%ld'에 'long' 형식의 인수가 필요하지만 variadic 인수 5의 형식이 'size_t'입니다.
+  d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\rnn.c(165): note: 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\rnn.c(190): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\rnn.c(162): warning C4244: '초기화 중': 'uint64_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\rnn.c(249): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\rnn.c(379): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\rnn.c(347): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\rnn.c(358): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\rnn.c(420): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\rnn.c(399): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\rnn.c(410): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\rnn.c(438): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\rnn.c(451): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\rnn.c(484): warning C4305: '함수': 'double'에서 'float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\rnn.c(485): warning C4244: '함수': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  rnn_layer.c
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(46): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(109): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(110): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  rnn_vid.c
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(46): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(109): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(110): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\rnn_vid.c(29): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\rnn_vid.c(76): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\rnn_vid.c(108): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\rnn_vid.c(86): warning C4244: '초기화 중': 'uint64_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\rnn_vid.c(138): warning C4305: '함수': 'double'에서 'float'(으)로 잘립니다.
+  route_layer.c
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(46): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(109): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(110): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  sam_layer.c
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(46): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(109): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(110): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  scale_channels_layer.c
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(46): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(109): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(110): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  shortcut_layer.c
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(46): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(109): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(110): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\shortcut_layer.c(89): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\shortcut_layer.c(91): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\shortcut_layer.c(55): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  softmax_layer.c
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(46): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(109): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(110): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  super.c
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(46): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(109): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(110): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\super.c(11): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\super.c(54): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\super.c(21): warning C4244: '초기화 중': 'uint64_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  컴파일하고 있습니다...
+  swag.c
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(46): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(109): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(110): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\swag.c(12): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\swag.c(62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\swag.c(22): warning C4244: '초기화 중': 'uint64_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  tag.c
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(46): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(109): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(110): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\tag.c(7): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\tag.c(65): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\tag.c(66): warning C4477: 'printf' : 서식 문자열 '%ld'에 'long' 형식의 인수가 필요하지만 variadic 인수 7의 형식이 'uint64_t'입니다.
+  d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\tag.c(66): note: 서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+  d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\tag.c(66): note: 서식 문자열에서 '%Id'을(를) 사용하는 것이 좋습니다.
+  d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\tag.c(66): note: 서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\tag.c(69): warning C4244: '=': 'uint64_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\tag.c(54): warning C4244: '초기화 중': 'uint64_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  tree.c
+  upsample_layer.c
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(46): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(109): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(110): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  utils.c
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\utils.c(143): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\utils.c(248): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\utils.c(249): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\utils.c(420): warning C4267: '함수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\utils.c(434): warning C4267: '함수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\utils.c(464): warning C4267: '함수': 'size_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\utils.c(475): warning C4267: '함수': 'size_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\utils.c(486): warning C4267: '함수': 'size_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\utils.c(496): warning C4267: '함수': 'size_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\utils.c(552): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\utils.c(553): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\utils.c(554): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\utils.c(625): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\utils.c(626): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\utils.c(634): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\utils.c(646): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\utils.c(641): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\utils.c(664): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\utils.c(677): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\utils.c(691): warning C4244: '함수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\utils.c(704): warning C4244: '함수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\utils.c(783): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\utils.c(793): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\utils.c(840): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\utils.c(1010): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\utils.c(1011): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\utils.c(1012): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\utils.c(1013): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\utils.c(1017): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\utils.c(1019): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  voxel.c
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(46): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(109): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(110): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\voxel.c(46): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\voxel.c(89): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\voxel.c(56): warning C4244: '초기화 중': 'uint64_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  writing.c
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(46): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(109): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(110): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\writing.c(8): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\writing.c(67): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\writing.c(68): warning C4477: 'printf' : 서식 문자열 '%ld'에 'long' 형식의 인수가 필요하지만 variadic 인수 7의 형식이 'uint64_t'입니다.
+  d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\writing.c(68): note: 서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+  d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\writing.c(68): note: 서식 문자열에서 '%Id'을(를) 사용하는 것이 좋습니다.
+  d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\writing.c(68): note: 서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\writing.c(76): warning C4244: '=': 'uint64_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\writing.c(39): warning C4244: '초기화 중': 'uint64_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  yolo.c
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(46): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(109): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(110): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\yolo.c(15): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\yolo.c(71): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\yolo.c(25): warning C4244: '초기화 중': 'uint64_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\yolo.c(97): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\yolo.c(98): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\yolo.c(90): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\yolo.c(91): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\yolo.c(92): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\yolo.c(93): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\yolo.c(115): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\yolo.c(141): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\yolo.c(215): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\yolo.c(234): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\yolo.c(298): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\yolo.c(349): warning C4305: '함수': 'double'에서 'float'(으)로 잘립니다.
+  yolo_layer.c
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(46): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(109): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\activations.h(110): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\yolo_layer.c(76): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\yolo_layer.c(129): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\yolo_layer.c(130): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\yolo_layer.c(202): warning C4244: '*=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\yolo_layer.c(203): warning C4244: '*=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\yolo_layer.c(171): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\yolo_layer.c(172): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\yolo_layer.c(264): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\yolo_layer.c(297): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\yolo_layer.c(296): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\yolo_layer.c(337): warning C4244: '함수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\yolo_layer.c(411): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\yolo_layer.c(448): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\yolo_layer.c(449): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\yolo_layer.c(592): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\yolo_layer.c(376): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\yolo_layer.c(422): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\yolo_layer.c(442): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\yolo_layer.c(465): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\yolo_layer.c(512): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\yolo_layer.c(584): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\yolo_layer.c(586): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\yolo_layer.c(662): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\yolo_layer.c(663): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\yolo_layer.c(650): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\yolo_layer.c(652): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\yolo_layer.c(769): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  http_stream.cpp
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\http_stream.cpp(110): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\http_stream.cpp(202): warning C4244: '인수': 'SOCKET'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\http_stream.cpp(236): warning C4244: '인수': 'SOCKET'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\http_stream.cpp(237): warning C4244: '인수': 'SOCKET'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\http_stream.cpp(248): warning C4244: '인수': 'SOCKET'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\http_stream.cpp(249): warning C4244: '인수': 'SOCKET'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\http_stream.cpp(261): warning C4244: '인수': 'SOCKET'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\http_stream.cpp(262): warning C4244: '인수': 'SOCKET'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\http_stream.cpp(328): fatal error C1083: 포함 파일을 열 수 없습니다. 'opencv2/opencv.hpp': No such file or directory
+  image_opencv.cpp
+d:\mobilenetv2_yolov3 lite\files\mobilenetv2_yolov3_lite\src\image_opencv.cpp(16): fatal error C1083: 포함 파일을 열 수 없습니다. 'opencv2/core/version.hpp': No such file or directory
