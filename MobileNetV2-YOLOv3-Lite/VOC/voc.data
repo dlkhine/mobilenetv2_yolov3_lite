@@ -1,4 +1,4 @@
-classes= 20
+classes= 2
 train  = ~/DATASET/VOC/train.txt
 valid  = ~/VOC/2007_test.txt
 names = voc.names
