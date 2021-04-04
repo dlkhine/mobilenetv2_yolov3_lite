@@ -1,6 +1,6 @@
 classes= 2
-train  = /content/gdrive/My\ Drive/MobileNet-Yolo/train.txt
-valid  = /content/gdrive/My\ Drive/MobileNet-Yolo/test.txt
+train  = /content/gdrive/MyDrive/MobileNet-Yolo/train.txt
+valid  = /content/gdrive/MyDrive/MobileNet-Yolo/test.txt
 names = voc.names
-backup = /content/gdrive/My\ Drive/MobileNet-Yolo/backup/
+backup = /content/gdrive/MyDrive/MobileNet-Yolo/backup/
 
